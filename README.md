@@ -17,7 +17,7 @@ This project implements a football detection system using the YOLOv8 large model
 - Easy-to-use inference pipeline
 
 ## 📹 Demo Video
-Check out the demo video of the football detection system [here](https://github.com/Shubham3871/Football-Analysis-with-YOLO-AI/raw/main/path/to/training-vid-ai.mp4).
+Check out the demo video of the football detection system [here](training-vid-ai.mp4).
 
 
 ## 📋 Prerequisites
