@@ -123,6 +123,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Shubham - [Add your email if you'd like]
+Shubham - shubhamgaikwad9054@gmail.com
 
 Project Link: [https://github.com/Shubham3871/Football-Analysis-with-YOLO-AI](https://github.com/Shubham3871/Football-Analysis-with-YOLO-AI)
